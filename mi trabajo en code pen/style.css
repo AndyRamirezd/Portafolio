@@ -1,0 +1,42 @@
+body {
+    background-color: lightskyblue ;
+    text-align: center;
+    font-family: Arial;
+}
+
+.contenedor-portafolio {
+    background-color: white;
+    width: 360px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+h1 {
+    color: Grey;
+}
+
+h2 {
+    font-weight: bold;
+    color: darkblue;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    display: block;
+    background-color: lightblue;
+    color: darkblue;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: violet;
+    transform: scale(1.01);
+}
